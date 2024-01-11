@@ -1,2 +1,2 @@
 # bloodypool
-i don't know anyting about git hub
+I want to make a gaming application
